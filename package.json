@@ -1,6 +1,7 @@
 {
   "name": "vuejs-mongodb-auth",
   "version": "1.0.0",
+  "extras": "",
   "description": "",
   "main": "index.js",
   "scripts": {
